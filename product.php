@@ -100,6 +100,9 @@ if (isset($_GET['id'])):
 													Color
 													<select class="input-select">
 														<option value="0">Red</option>
+														<option value="0">Black</option>
+														<option value="0">White</option>
+														<option value="0">Gray</option>
 													</select>
 												</label>
 											</div>
@@ -121,12 +124,14 @@ if (isset($_GET['id'])):
 
 											<ul class="product-btns">
 												<li><a href="#"><i class="fa fa-heart-o"></i> add to wishlist</a></li>
-												<li><a href="#"><i class="fa fa-exchange"></i> add to compare</a></li>
+												<!-- <li><a href="#"><i class="fa fa-exchange"></i> add to compare</a></li> -->
 											</ul>
 
 											<ul class="product-links">
 												<li>Category:</li>
-												<li><a href="#">Headphones</a></li>
+												<li><a href="#">Phone</a></li>
+												<li><a href="#">Laptop</a></li>
+												<li><a href="#">PC</a></li>
 												<li><a href="#">Accessories</a></li>
 											</ul>
 
