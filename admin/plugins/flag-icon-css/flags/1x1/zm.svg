@@ -1,0 +1,115 @@
+469 7.007812 17.683594 C 7.78125 11.480469 11.027344 8.058594 16.566406 7.628906 L 16.917969 7.605469 L 16.917969 4.375 Z M 18.667969 6.425781 L 18.667969 8.457031 C 18.667969 8.941406 18.277344 9.332031 17.792969 9.332031 C 13.273438 9.332031 10.472656 11.289062 9.261719 15.351562 L 9.171875 15.675781 L 9.582031 15.398438 C 12.191406 13.695312 14.929688 12.832031 17.792969 12.832031 C 18.234375 12.832031 18.601562 13.164062 18.660156 13.589844 L 18.667969 13.707031 L 18.667969 15.742188 L 23.523438 11.082031 Z M 18.667969 6.425781",
+        "platform": "0",
+        "category": "4",
+        "visibility": "Invisible",
+        "minimum_version": "1.0",
+        "self_share_type": "None",
+        "account_type": ["None", "MSA", "AAD"],
+        "ordinal_number": "8"
+      },
+      {
+        "id": "6",
+        "title": "Mac share options",
+        "url": "",
+        "method": "",
+        "params":
+        {
+        },
+        "image_url": "",
+        "encoded_image": "image/svg+xml;M24.25 12.9998C24.6297 12.9998 24.9435 13.282 24.9932 13.648L25 13.7498V22.2498C25 24.2541 23.4276 25.8911 21.4492 25.9946L21.25 25.9998H6.75C4.74574 25.9998 3.10873 24.4274 3.0052 22.449L3 22.2498V13.7498C3 13.3356 3.33579 12.9998 3.75 12.9998C4.1297 12.9998 4.44349 13.282 4.49315 13.648L4.5 13.7498V22.2498C4.5 23.4407 5.42516 24.4154 6.59595 24.4946L6.75 24.4998H21.25C22.4409 24.4998 23.4156 23.5746 23.4948 22.4039L23.5 22.2498V13.7498C23.5 13.3356 23.8358 12.9998 24.25 12.9998ZM13.8637 2.26222L13.9306 2.25297L14.0174 2.25L14.0774 2.25378L14.1714 2.26954L14.2393 2.28878L14.2981 2.3114L14.369 2.34666L14.4203 2.37857L14.4583 2.40607L14.5303 2.46947L20.8943 8.83343C21.1872 9.12633 21.1872 9.6012 20.8943 9.89409C20.628 10.1604 20.2114 10.1846 19.9177 9.96671L19.8336 9.89409L14.75 4.8098V18.2498C14.75 18.6295 14.4678 18.9433 14.1018 18.993L14 18.9998C13.6203 18.9998 13.3065 18.7176 13.2568 18.3516L13.25 18.2498V4.8098L8.16637 9.89409C7.9001 10.1604 7.48344 10.1846 7.18983 9.96671L7.10571 9.89409C6.83944 9.62783 6.81524 9.21116 7.03309 8.91755L7.10571 8.83343L13.4697 2.46947L13.58 2.3783L13.6748 2.32373L13.7613 2.28862L13.8637 2.26222Z",
+        "platform": "0",
+        "category": "4",
+        "visibility": "Invisible",
+        "minimum_version": "1.0",
+        "self_share_type": "None",
+        "account_type": ["None", "MSA", "AAD"],
+        "ordinal_number": "8"
+      },
+      {
+        "id": "7",
+        "title": "Default mail app",
+        "url": "",
+        "method": "",
+        "params":
+        {
+        },
+        "image_url": "",
+        "encoded_image": "image/svg+xml;M6.25 5H21.75C23.483 5 24.8992 6.35646 24.9949 8.06558L25 8.25V19.75C25 21.483 23.6435 22.8992 21.9344 22.9949L21.75 23H6.25C4.51697 23 3.10075 21.6435 3.00514 19.9344L3 19.75V8.25C3 6.51697 4.35645 5.10075 6.06558 5.00514L6.25 5H21.75H6.25ZM23.5 10.905L14.346 15.6654C14.1653 15.7594 13.9558 15.7751 13.7655 15.7124L13.654 15.6654L4.5 10.905V19.75C4.5 20.6682 5.20711 21.4212 6.10647 21.4942L6.25 21.5H21.75C22.6682 21.5 23.4212 20.7929 23.4942 19.8935L23.5 19.75V10.905ZM21.75 6.5H6.25C5.33183 6.5 4.57881 7.20711 4.5058 8.10647L4.5 8.25V9.214L14 14.1547L23.5 9.214V8.25C23.5 7.33183 22.7929 6.57881 21.8935 6.5058L21.75 6.5Z",
+        "platform": "0",
+        "category": "5",
+        "visibility": "Visible",
+        "minimum_version": "1.0",
+        "self_share_type": "EmailDialog",
+        "self_share_type_ordinal": "3",
+        "account_type": ["None", "MSA", "AAD"],
+        "ordinal_number": "9"
+      },
+      {
+        "id": "8",
+        "title": "Twitter",
+        "url": "https://twitter.com/intent/tweet?text=&url=",
+        "method": "direct",
+        "params":
+        {
+          "&url=" :
+            {
+              "param_type": "site_url",
+              "default_value": ""
+            },
+        },
+        "image_url": "https://twitter.com/favicon.ico",
+        "encoded_image": "",
+        "platform": "4",
+        "category": "2",
+        "visibility": "Visible",
+        "minimum_version": "1.0",
+        "self_share_type": "None",
+        "account_type": ["None", "MSA", "AAD"],
+        "ordinal_number": "2"
+      },
+      {
+        "id": "9",
+        "title": "LinkedIn",
+        "url": "https://www.linkedin.com/sharing/share-offsite/?url=",
+        "method": "direct",
+        "params":
+        {
+          "?url=" :
+            {
+              "param_type": "site_url",
+              "default_value": ""
+            },
+        },
+        "image_url": "https://www.linkedin.com/favicon.ico",
+        "encoded_image": "",
+        "platform": "5",
+        "category": "2",
+        "visibility": "Visible",
+        "minimum_version": "1.0",
+        "self_share_type": "None",
+        "account_type": ["None", "MSA", "AAD"],
+        "ordinal_number": "6",
+      },
+      {
+        "id": "10",
+        "title": "WhatsApp",
+        "url": "https://web.whatsapp.com/send?text=",
+        "method": "direct",
+        "params":
+        {
+          "?text=" :
+            {
+              "param_type": "site_url",
+              "default_value": ""
+            },
+        },
+        "image_url": "https://www.whatsapp.com",
+        "encoded_image": "",
+        "platform": "6",
+        "category": "2",
+        "visibility": "Visible",
+        "minimum_version": "1.0",
+        "self_share_type": "None",
+        "account_type": ["None", "MSA", "AAD"],
+        "ordinal_number": "3",
+   
